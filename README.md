@@ -1,5 +1,7 @@
-## Faaala DEV eu sou o Lucas França, desenvolvedor Front End JR
-<img align="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://i.giphy.com/media/OMrq9FmUgObwogeL06/giphy.webp">
+
+
+## Faaala DEV eu sou o Lucas França, desenvolvedor Front End JR<img align="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://i.giphy.com/media/OMrq9FmUgObwogeL06/giphy.webp">
+
 <div align="center">
   <a href="https://github.com/Suubiprabaxo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
