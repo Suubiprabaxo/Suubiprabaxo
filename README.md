@@ -1,6 +1,6 @@
 
 
-## Faaala DEV eu sou o Lucas França, desenvolvedor Front End 🖥️
+## Fala DEV eu sou o Lucas França, desenvolvedor Front End 🖥️
 
 <div align="center">
   <a href="https://github.com/Suubiprabaxo">
