@@ -2,7 +2,7 @@
 <div align="center">
 <h2>🖥️ Famoso Olá mundo! Seja bem-vindo(a) ao meu GitHub 🖥️</h2>
 💡 De uma olhada em meu Portfolio<br>
-📊 +46 projetos aprovados<br>
+📊 +46 projetos autorais<br>
 💻 +50 clientes satisfeitos<br>
 <br>
 
