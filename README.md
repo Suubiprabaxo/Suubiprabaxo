@@ -3,6 +3,8 @@
 ## Olá mundo! Me chamo Lucas França, Desenvolvedor Front End 🖥️
 
 
+[![blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](www.google.com)
+
 
 <div style="display: inline_block"><br>
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
