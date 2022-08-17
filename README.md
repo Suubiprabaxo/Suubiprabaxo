@@ -2,9 +2,9 @@
 <div align="center">
 <h2>🖥️ Famoso Olá mundo! Seja bem-vindo(a) ao meu GitHub 🖥️</h2>
 <br>
-💡 De uma olhada em meu Portfolio
-📊 +46 projetos aprovados
-💻 +50 clientes satisfeitos
+💡 De uma olhada em meu Portfolio<br>
+📊 +46 projetos aprovados<br>
+💻 +50 clientes satisfeitos<br>
 
 [![blog](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](www.google.com)
 [![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=21979666281&text=Olá!)
