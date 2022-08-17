@@ -1,8 +1,8 @@
 
 <div align="center">
-<h1>Olá mundo! Me chamo Lucas França, Desenvolvedor Front End 🖥️</h1>
-</div>
-<br><br>
+<h2>Olá mundo! Me chamo Lucas França, Desenvolvedor Front End 🖥️</h2>
+
+<br>
 
 [![blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](www.google.com)
 [![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=21979666281&text=Olá!)
@@ -27,6 +27,5 @@
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-
 </div>
-
+</div>
