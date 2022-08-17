@@ -1,6 +1,6 @@
 
 
-## Faaala DEV eu sou o Lucas França, desenvolvedor Front End<img align="right" alt="Rafa-pic" height="50" style="border-radius:50px;" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+## Faaala DEV eu sou o Lucas França, desenvolvedor Front End 🖥️
 
 <div align="center">
   <a href="https://github.com/Suubiprabaxo">
