@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2>Olá mundo! Me chamo Lucas França, Desenvolvedor Front End 🖥️</h2>
+<h2>Famoso Olá mundo! Seja bem-vindo(a) ao meu GitHub. 🖥️</h2>
 
 <br>
 
@@ -19,7 +19,7 @@
 
           
 <div style="display: inline_block"><br>
-<h2 align="center">Algumas Tecnologias que utilizo atualmente!</h2><br><br>
+<h2 align="center">Algumas Tecnologias que utilizo atualmente!</h2><br>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
