@@ -1,7 +1,7 @@
 
-
+<div align="center">
 ## Olá mundo! Me chamo Lucas França, Desenvolvedor Front End 🖥️
-
+</div>
 
 [![blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](www.google.com)
 [![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=21979666281&text=Olá!)
@@ -18,7 +18,7 @@
 
           
 <div style="display: inline_block"><br>
-<h2>Algumas Tecnologias que utilizo atualmente! 
+<h2 align="center">Algumas Tecnologias que utilizo atualmente!</h2><br><br>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
