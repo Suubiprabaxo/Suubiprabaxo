@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2>Famoso Olá mundo! Seja bem-vindo(a) ao meu GitHub. 🖥️</h2>
+<h2>🖥️ Famoso Olá mundo! Seja bem-vindo(a) ao meu GitHub 🖥️</h2>
 
 <br>
 
