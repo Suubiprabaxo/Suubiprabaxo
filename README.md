@@ -1,9 +1,7 @@
 
-<div align="center">
+<div align="left">
 <h2>🖥️ Desenvolvedor Back-end 🖥️</h2>
-💡 👋 Olá, eu sou o Lucas França
-
-💻 Desenvolvedor Back-end com mais de 5 anos de experiência, atuando com Java e ecossistema Spring.
+Desenvolvedor Back-end com mais de 5 anos de experiência, atuando com Java e ecossistema Spring.
 
 🔧 Experiência em:
 - Desenvolvimento de APIs RESTful
@@ -25,26 +23,7 @@ Docker • Jenkins • SonarQube • Grafana • Jira
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prosoftcontatos@gmail.com)
 
 
-<div align="center">
-  <a href="https://github.com/Suubiprabaxo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suubiprabaxo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suubiprabaxo&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
 
-          
-<div style="display: inline_block"><br>
-<h2 align="center">Algumas Tecnologias que utilizo atualmente!</h2>
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
-  <img align="center" height="40" width="40" src="https://img.icons8.com/officel/452/express-js.png">
-</div>
 </div>
 
           
