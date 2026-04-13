@@ -65,22 +65,3 @@ Sempre focado em **qualidade de código, performance e entrega de valor**.
 ✔️ Design Patterns  
 ✔️ KISS • DRY • YAGNI  
 
----
-
-## 🔥 Contribuições
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suubiprabaxo&theme=radical"/>
-</p>
-
----
-
-## 🎯 Objetivo
-
-Evoluir constantemente como desenvolvedor e construir soluções **escaláveis, performáticas e de alto impacto**.
-
----
-
-<p align="center">
-  Feito com 💻 e ☕ por Lucas França
-</p>
