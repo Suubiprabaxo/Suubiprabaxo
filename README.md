@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Backend Developer | Java & Spring Boot <br>
-  🚀 +5 anos construindo APIs e microsserviços
+  🚀 +7 anos construindo APIs e microsserviços
 </p>
 
 <p align="center">
